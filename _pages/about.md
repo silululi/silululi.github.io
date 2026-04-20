@@ -28,7 +28,7 @@ redirect_from:
 <p>
   <span style="color:blue;"><strong>[TMC’25]</strong></span> Efficient Cooperative Mechanism for Distributed Multi-Agent Traffic Signal Control.<br /> 
   <strong>Lulu Li</strong>, Shaohui Zhang, Yuanyuan Jin, Shuo He, Ke Wang, Yafei Li, Mingliang Xu.<br /> 
-  <em>IEEE Transactions on Mobile Computing</em>, 2025. <span style="color:red;"><strong>(CCF-A, SCI Q1)</strong></span> <a href="https://scholar.google.com/scholar?q=Efficient+Cooperative+Mechanism+for+Distributed+Multi-Agent+Traffic+Signal+Control"><span style="color:rgb(34,75,141);">[Paper]</span></a><br /> 
+  <em>IEEE Transactions on Mobile Computing</em>, 2025. <span style="color:red;"><strong>(CCF-A)</strong></span> <a href="https://scholar.google.com/scholar?q=Efficient+Cooperative+Mechanism+for+Distributed+Multi-Agent+Traffic+Signal+Control"><span style="color:rgb(34,75,141);">[Paper]</span></a><br /> 
 
   <span style="color:blue;"><strong>[CJC’23]</strong></span> 智能集群系统的强化学习方法综述 (A Survey on Reinforcement Learning Methods for Intelligent Swarm Systems).<br /> 
   <strong>李璐璐 (Lulu Li)</strong>, 朱睿杰, 隋璐瑶, 李亚飞, 徐明亮, 樊会涛.<br /> 
@@ -40,11 +40,11 @@ redirect_from:
 
   <span style="color:blue;"><strong>[IS’23]</strong></span> Multi-Agent Broad Reinforcement Learning for Intelligent Traffic Light Control.<br /> 
   Ruijie Zhu, <strong>Lulu Li</strong>, Shuning Wu, Pei Lv, Yafei Li, Mingliang Xu.<br /> 
-  <em>Information Sciences</em>, 2023, 619: 509-525. <span style="color:red;"><strong>(CCF-B, SCI Q1)</strong></span> <a href="https://doi.org/10.1016/j.ins.2022.11.062"><span style="color:rgb(34,75,141);">[Paper]</span></a><br /><br />
+  <em>Information Sciences</em>, 2023, 619: 509-525. <span style="color:red;"><strong>(CCF-B)</strong></span> <a href="https://doi.org/10.1016/j.ins.2022.11.062"><span style="color:rgb(34,75,141);">[Paper]</span></a><br /><br />
 
   <span style="color:blue;"><strong>[AAS’24]</strong></span> 差异化保障需求驱动的舰载机多机协同决策方法.<br /> 
   陈伟, <strong>李璐璐 (Lulu Li)</strong>, 陈董, 张少辉, 李亚飞, 王可, 靳远远, 徐明亮.<br /> 
-  <em>航空学报 (Acta Aeronautica et Astronautica Sinica)</em>, 2024. <span style="color:red;"><strong>(EI Core, 航空航天T1)</strong></span> <a href="https://hkxb.buaa.edu.cn/CN/10.7527/S1000-6893.2024.31274"><span style="color:rgb(34,75,141);">[Paper]</span></a>
+  <em>航空学报 (Acta Aeronautica et Astronautica Sinica)</em>, 2024. <span style="color:red;"><strong>(EI Core)</strong></span> <a href="https://hkxb.buaa.edu.cn/CN/10.7527/S1000-6893.2024.31274"><span style="color:rgb(34,75,141);">[Paper]</span></a>
 </p>
 
 <h2 id="conference-papers"><strong>Conference Papers</strong></h2>
