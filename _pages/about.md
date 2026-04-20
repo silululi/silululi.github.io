@@ -22,7 +22,7 @@ redirect_from:
 <hr />
 
 <h1 id="publications"><strong>Selected Publications</strong></h1>
-<p><em>( *: equal contribution, #: corresponding author)</em></p>
+
 
 <h2 id="journal-papers"><strong>Journal Papers</strong></h2>
 <p>
