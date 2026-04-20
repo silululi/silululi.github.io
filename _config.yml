@@ -1,7 +1,7 @@
 # Site Settings
 url: "https://silululi.github.io"
 baseurl: ""
-title: "Lulu Li - Academic Homepage"
+title: "Lulu Li"
 description: "Academic homepage of Dr. Lulu Li. Focuses on Multi-Agent Reinforcement Learning, Swarm Intelligence, and Sim-to-Real."
 repository: "silululi/silululi.github.io"
 google_scholar_stats_use_cdn: true
