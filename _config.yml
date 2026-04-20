@@ -6,6 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+url: "https://silululi.github.io"
+baseurl: ""
 title                    : "Lulu Li - Academic Homepage"
 description              : "Academic homepage of Dr. Lulu Li, Distinguished Researcher at National Supercomputing Center in Zhengzhou. Focuses on Multi-Agent Reinforcement Learning, Swarm Intelligence, and Sim-to-Real."
 repository               : "silululi.github.io"
