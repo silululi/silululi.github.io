@@ -64,11 +64,4 @@ redirect_from:
   <li><strong>Intelligent Traffic Control & Carrier Scheduling</strong><br /> <em>Deployed MARL algorithms and Sim-to-Real techniques to optimize real-world scheduling efficiency.</em></li>
 </ul>
 
-<hr />
 
-<h1 id="services"><strong>Academic Services</strong></h1>
-<p>
-  Reviewer, <em>IEEE Transactions on Vehicular Technology (TVT)</em><br /> 
-  Reviewer, <em>IEEE Transactions on Intelligent Transportation Systems (TITS)</em><br />
-  <em>(Note: Please add any other journals/conferences you review for here)</em>
-</p>
