@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Lulu Li - Academic Homepage"
 description              : "Academic homepage of Dr. Lulu Li, Distinguished Researcher at National Supercomputing Center in Zhengzhou. Focuses on Multi-Agent Reinforcement Learning, Swarm Intelligence, and Sim-to-Real."
-repository               : "silululi/silululi.github.io"
+repository               : "silululi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
