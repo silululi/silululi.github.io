@@ -256,8 +256,15 @@
 .author__urls_sm{
   padding: .25em;
   font-size: 1.75em;
-  display: block;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .35em;
   a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 1.4em;
     color: inherit;
     text-decoration: none;
     &:hover {
