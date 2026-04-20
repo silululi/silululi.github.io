@@ -40,7 +40,7 @@ redirect_from:
 
   <span style="color:blue;"><strong>[IS’23]</strong></span> Multi-Agent Broad Reinforcement Learning for Intelligent Traffic Light Control.<br /> 
   Ruijie Zhu, <strong>Lulu Li</strong>, Shuning Wu, Pei Lv, Yafei Li, Mingliang Xu.<br /> 
-  <em>Information Sciences</em>, 2023, 619: 509-525. <span style="color:red;"><strong>(CCF-B)</strong></span> <a href="https://doi.org/10.1016/j.ins.2022.11.062"><span style="color:rgb(34,75,141);">[Paper]</span></a><br /><br />
+  <em>Information Sciences</em>, 2023, 619: 509-525. <span style="color:red;"><strong>(CCF-B)</strong></span> <a href="https://doi.org/10.1016/j.ins.2022.11.062"><span style="color:rgb(34,75,141);">[Paper]</span></a><br />
 
   <span style="color:blue;"><strong>[AAS’24]</strong></span> 差异化保障需求驱动的舰载机多机协同决策方法.<br /> 
   陈伟, <strong>李璐璐 (Lulu Li)</strong>, 陈董, 张少辉, 李亚飞, 王可, 靳远远, 徐明亮.<br /> 
