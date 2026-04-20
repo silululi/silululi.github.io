@@ -51,7 +51,7 @@ redirect_from:
 <p>
   <span style="color:blue;"><strong>[IJCAI’25]</strong></span> HLMTrans: A Sim-to-Real Transfer Framework for Spatial Crowdsourcing with Human-Guided Language Models.<br /> 
   Qingshun Wu, <strong>Lulu Li</strong>, Yafei Li, Yuanyuan Jin, Shuo He, Mingliang Xu.<br /> 
-  <em>International Joint Conference on Artificial Intelligence</em>, 2025. <span style="color:red;"><strong>(CCF-A)</strong></span>
+  <em>International Joint Conference on Artificial Intelligence</em>, 2025. <span style="color:red;"><strong>(CCF-A)</strong></span> <a href="https://www.ijcai.org/proceedings/2025/0471.pdf"><span style="color:rgb(34,75,141);">[Paper]</span></a>
 </p>
 
 <hr />
