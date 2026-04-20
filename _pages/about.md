@@ -28,7 +28,7 @@ redirect_from:
 <p>
   <span style="color:blue;"><strong>[TMC’25]</strong></span> Efficient Cooperative Mechanism for Distributed Multi-Agent Traffic Signal Control.<br /> 
   <strong>Lulu Li</strong>, Shaohui Zhang, Yuanyuan Jin, Shuo He, Ke Wang, Yafei Li, Mingliang Xu.<br /> 
-  <em>IEEE Transactions on Mobile Computing</em>, 2025. <span style="color:red;"><strong>(CCF-A)</strong></span> <a href="https://scholar.google.com/scholar?q=Efficient+Cooperative+Mechanism+for+Distributed+Multi-Agent+Traffic+Signal+Control"><span style="color:rgb(34,75,141);">[Paper]</span></a><br /> 
+  <em>IEEE Transactions on Mobile Computing</em>, 2025. <span style="color:red;"><strong>(CCF-A)</strong></span> <a href="https://doi.org/10.1109/TMC.2025.3587257"><span style="color:rgb(34,75,141);">[Paper]</span></a><br /> 
 
   <span style="color:blue;"><strong>[CJC’23]</strong></span> 智能集群系统的强化学习方法综述 (A Survey on Reinforcement Learning Methods for Intelligent Swarm Systems).<br /> 
   <strong>李璐璐 (Lulu Li)</strong>, 朱睿杰, 隋璐瑶, 李亚飞, 徐明亮, 樊会涛.<br /> 
