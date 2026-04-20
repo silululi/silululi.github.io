@@ -8,51 +8,51 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<p>I am a Distinguished Researcher at the National Supercomputing Center in Zhengzhou and a Master's Supervisor. I received my Ph.D. degree in Engineering from Zhengzhou University in 2024. My research work is deeply rooted in artificial intelligence, with a focus on both theoretical innovation and industrial application. I have participated in multiple high-level scientific research projects, including the <em>National Key R&D Program of China</em> and the <em>Henan Provincial Natural Science Foundation</em>. I have published more than 10 research papers in top-tier international journals and conferences, including <em>IEEE TMC</em>, <em>IEEE TVT</em>, and the <em>Chinese Journal of Computers</em>. Beyond academia, I actively promote the transformation of technological achievements, collaborating with leading enterprises like <strong>Weichai Power (潍柴动力)</strong> to deploy AI-driven solutions in intelligent traffic control, carrier support scheduling, and supply chain collaboration.</p>
 
-<span class='anchor' id='about-me'></span>
+<h2 id="research-interests"><strong>Research Interests</strong></h2>
+<p>My research interests cover <em>Artificial Intelligence</em> and <em>Complex Decision-Making Systems</em>, with a particular focus on:</p>
+<ul>
+  <li><strong>Swarm Intelligence & Collaborative Decision Making</strong><br /> <em>Intelligent routing, multi-agent coordination, and large-scale complex system scheduling.</em></li>
+  <li><strong>Multi-Agent Reinforcement Learning (MARL)</strong><br /> <em>Algorithm design, reward shaping, and adaptive traffic signal control.</em></li>
+  <li><strong>Sim-to-Real Transfer & Generative AI</strong><br /> <em>Bridging the gap between simulation environments and real-world industrial deployments.</em></li>
+</ul>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+<hr />
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<h1 id="publications"><strong>Selected Publications</strong></h1>
+<p><em>( *: equal contribution, #: corresponding author)</em></p>
 
+<h2 id="journal-papers"><strong>Journal papers</strong></h2>
+<p>
+  <span style="color:blue;"><strong>[TMC’25]</strong></span> Efficient Cooperative Mechanism for Distributed Multi-Agent Traffic Signal Control.<br /> 
+  <strong>Lulu Li</strong>, Yafei Li, Shaohui Zhang, Yuanyuan Jin, Shuo He, Ke Wang, Mingliang Xu.<br /> 
+  <em>IEEE Transactions on Mobile Computing</em>, 2025. <span style="color:red;"><strong>(CCF-A)</strong></span> <a href="https://scholar.google.com/scholar?q=Efficient+Cooperative+Mechanism+for+Distributed+Multi-Agent+Traffic+Signal+Control"><span style="color:rgb(34,75,141);">[Paper]</span></a><br /> 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  <span style="color:blue;"><strong>[CJC’24]</strong></span> 智能集群系统的强化学习方法综述 (A Survey on Reinforcement Learning Methods for Intelligent Swarm Systems).<br /> 
+  <strong>李璐璐</strong>, 等 (<strong>Lulu Li</strong>, et al.).<br /> 
+  <em>计算机学报 (Chinese Journal of Computers)</em>, 2024. <span style="color:red;"><strong>(CCF-A Chinese)</strong></span> <a href="http://cjc.ict.ac.cn/online/onlinepaper/lll-20231210115504.pdf"><span style="color:rgb(34,75,141);">[Paper]</span></a><br />
 
-# 📝 Publications 
+  <span style="color:blue;"><strong>[TVT’23]</strong></span> Adaptive Multi-Agent Deep Mixed Reinforcement Learning for Traffic Light Control.<br /> 
+  <strong>Lulu Li</strong>, Ruijie Zhu, Shuning Wu, Weiping Ding, Mingliang Xu, Jiwen Lu.<br /> 
+  <em>IEEE Transactions on Vehicular Technology</em>, 2023. <span style="color:red;"><strong>(JCR Q1)</strong></span> <a href="https://www.researchgate.net/publication/374400508_Adaptive_Multi-Agent_Deep_Mixed_Reinforcement_Learning_for_Traffic_Light_Control"><span style="color:rgb(34,75,141);">[Paper]</span></a>
+</p>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<hr />
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<h1 id="projects"><strong>Projects & Industry Applications</strong></h1>
+<ul>
+  <li><strong>National Key R&D Program of China</strong><br /> <em>Core participant focusing on swarm intelligence and complex system scheduling.</em></li>
+  <li><strong>Henan Provincial Natural Science Foundation</strong><br /> <em>Leading research on multi-agent reinforcement learning algorithms.</em></li>
+  <li><strong>Intelligent Supply Chain Collaboration (Weichai Power)</strong><br /> <em>Partnered with Weichai Power (潍柴动力) to apply AI-driven decision-making models to industrial supply chain logistics.</em></li>
+  <li><strong>Intelligent Traffic Control & Carrier Scheduling</strong><br /> <em>Deployed MARL algorithms and Sim-to-Real techniques to optimize real-world scheduling efficiency.</em></li>
+</ul>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<hr />
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<h1 id="services"><strong>Academic Services</strong></h1>
+<p>
+  Reviewer, <em>IEEE Transactions on Vehicular Technology (TVT)</em><br /> 
+  Reviewer, <em>IEEE Transactions on Intelligent Transportation Systems (TITS)</em><br />
+  <em>(Note: Please add any other journals/conferences you review for here)</em>
+</p>
