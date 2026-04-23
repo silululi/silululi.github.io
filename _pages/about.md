@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <h1 id="about-me"><strong>About Me</strong></h1>
-<p> I received my Ph.D. in 2024 under the supervision of Academician <a href=" https://www.cae.cn/cae/html/main/colys/42793697.html"> Huitao Fan </a> and am currently affiliated with the Engineering Research Center of Intelligent Cluster Systems, Ministry of Education, at Zhengzhou University. My research team is led by Professor <a href="https://www7.zzu.edu.cn/csai/info/1234/2497.htm"> Mingliang Xu </a>, a recipient of the National Science Fund for Distinguished Young Scholars and my postdoctoral advisor. I was selected for the Central Plains Young Top Talent Support Program in 2025. </p>
+<p> I received my Ph.D. in 2024 under the supervision of Academician <a href=" https://www.cae.cn/cae/html/main/colys/42793697.html"> Huitao Fan </a> and am currently affiliated with the Engineering Research Center of Intelligent Cluster Systems, Ministry of Education, at Zhengzhou University. My research team is led by Professor <a href="https://www7.zzu.edu.cn/csai/info/1234/2497.htm"> Mingliang Xu</a>, a recipient of the National Science Fund for Distinguished Young Scholars and my postdoctoral advisor. I was selected for the Central Plains Young Top Talent Support Program in 2025. </p>
 
 <h2 id="research-interests"><strong>Research Interests</strong></h2>
 <p>My research interests cover <em>Artificial Intelligence</em> and <em>Complex Decision-Making Systems</em>, with a particular focus on:</p>
@@ -56,12 +56,16 @@ redirect_from:
 
 <hr />
 
-<h1 id="projects"><strong>Projects & Industry Applications</strong></h1>
-<ul>
-  <li><strong>National Key R&D Program of China</strong><br /> <em>Core participant focusing on swarm intelligence and complex system scheduling.</em></li>
-  <li><strong>Henan Provincial Natural Science Foundation</strong><br /> <em>Leading research on multi-agent reinforcement learning algorithms.</em></li>
-  <li><strong>Intelligent Supply Chain Collaboration (Weichai Power)</strong><br /> <em>Partnered with Weichai Power (潍柴动力) to apply AI-driven decision-making models to industrial supply chain logistics.</em></li>
-  <li><strong>Intelligent Traffic Control & Carrier Scheduling</strong><br /> <em>Deployed MARL algorithms and Sim-to-Real techniques to optimize real-world scheduling efficiency.</em></li>
+<h1 id="projects"><strong>Projects & Award</strong></h1>
+<ul> 
+  <li><strong>National Key Research and Development Program of China, </strong><br /> <em>Ministry of Science and Technology, No. 2024YFB3311604, Key Technologies and Platform Development for AI-Driven Networked Collaboration in Industrial and Supply Chains, Dec. 2024–Nov. 2027, ongoing. Subproject Leader for Planning and Decision-Making of Intelligent Control Schemes for the Whole Process of Collaborative Supply Chain Logistics.</em>
+  </li>
+
+  <li><strong>Natural Science Foundation of Henan Province, </strong><br /> <em>Henan Provincial Department of Education, No. 262300422576, Research on Swarm-Based Autonomous Collaborative Storage, Transportation, and Simulation Validation for Heterogeneous Aircraft Carrier Ammunition, Jan. 2026–Dec. 2027, CNY 50,000, ongoing. Principal Investigator.</em>
+  </li>
+  
+  <li><strong>Zhongyuan Talent Program – Zhongyuan Young Top Talent (Young Postdoctoral Researcher), Department of Human Resources and Social Security of Henan Province, Mar. 2026.</em>
+  </li>
 </ul>
 
 
